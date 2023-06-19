@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'list_institute';
+
+  logme(){
+    console.log('testing');
+  }
 }
